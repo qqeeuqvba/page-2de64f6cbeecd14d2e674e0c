@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "a814cd7be745b9e2d392e22a",
+  "owner": "qqeeuqvba",
+  "repo": "page-2de64f6cbeecd14d2e674e0c",
+  "title": "Wespanl",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "2de64f6cbeecd14d2e674e0c",
+      "a": "Wespanl",
+      "b": "",
+      "entity": "Wespanl",
+      "brand": "Wespanl",
+      "separator": "",
+      "path": "index.html",
+      "hash": "eae14c8b4d1d24b50b1fc8f870de5f951222d336675383f6b30dc29ea93f5b53",
+      "content": {
+        "keyword1": "Wespanl",
+        "keyword2": "",
+        "primary_entity": "Wespanl",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "Wespanl 是专注 VPN 梯子与机场订阅的网络加速服务，提供多端客户端官方下载、稳定节点与清晰配置流程，覆盖办公、流媒体与游戏加速需求，欢迎访问官网选购套餐。",
+          "AI_DESCRIPTION": "Wespanl 是专注 VPN 梯子与机场订阅的网络加速服务，提供多端客户端官方下载、稳定节点与清晰配置流程，覆盖办公、流媒体与游戏加速需求，欢迎访问官网选购套餐。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}body{font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,sans-serif;background:#f3f4f6;color:#18181b;line-height:1.65;font-size:16px;overflow-x:hidden}header{background:#fff;padding:14px 16px;border-bottom:1px solid #e4e4e7}nav ul{display:flex;flex-wrap:wrap;gap:8px 18px;list-style:none;justify-content:center}nav a{color:#5b21b6;font-weight:500;font-size:15px}a{color:#6d28d9;text-decoration:none}.hero{padding:96px 20px 72px;text-align:center;background:#faf5ff}h1{font-size:clamp(2.2rem,8vw,3.4rem);color:#4c1d95;margin:0 0 20px;font-weight:800;line-height:1.15}.lead{font-size:1.125rem;color:#3f3f46;max-width:680px;margin:0 auto 28px}.btn{display:inline-block;background:#6d28d9;color:#fff;padding:12px 28px;border-radius:999px;font-weight:600;margin:6px}.btn-outline{background:#fff;color:#6d28d9;border:2px solid #6d28d9}main{max-width:960px;margin:0 auto;padding:0 16px 48px}section{margin:48px 0}h2{font-size:1.65rem;color:#4c1d95;margin-bottom:16px;padding-bottom:8px;border-bottom:2px solid #ddd6fe}h3{font-size:1.2rem;color:#5b21b6;margin:20px 0 8px}p,li{margin-bottom:10px}.plans{display:flex;flex-wrap:wrap;gap:20px;justify-content:center}.plan{background:#fff;border-radius:16px;padding:28px 22px;flex:1 1 260px;max-width:300px;border:1px solid #e4e4e7}.plan.featured{border:2px solid #7c3aed;background:#faf5ff}.price{font-size:1.75rem;font-weight:700;color:#6d28d9;margin:8px 0}.annual{font-size:.9rem;color:#71717a}.plan ul{margin:16px 0 0;padding-left:18px}.badge{display:inline-block;background:#7c3aed;color:#fff;font-size:12px;padding:2px 8px;border-radius:4px;margin-bottom:8px}.steps{background:#fff;border-radius:12px;padding:24px;border:1px solid #e4e4e7}.steps ol{padding-left:22px}.steps li{margin-bottom:18px}.dl-list{background:#fff;border-radius:12px;padding:20px 24px;border:1px solid #e4e4e7;padding-left:40px}details{background:#fff;border:1px solid #e4e4e7;border-radius:10px;margin-bottom:10px;padding:0 16px}summary{padding:14px 0;font-weight:600;color:#3b0764}details p{margin:0;padding:0 0 14px;color:#3f3f46}footer{background:#27272a;color:#d4d4d8;padding:40px 16px;font-size:14px;text-align:center}footer a{color:#c4b5fd}footer ul{list-style:none;display:flex;flex-wrap:wrap;justify-content:center;gap:12px;margin:12px 0}.ad{margin:20px auto;max-width:720px;padding:12px;background:#3f3f46;border-radius:8px;color:#e4e4e7}@media(max-width:480px){.hero{padding:72px 16px 48px}h1{font-size:2.1rem}.plan{max-width:100%}}</style><header><nav><ul><li><a href=\"#\">首页</a></li><li><a href=\"#intro\">简介</a></li><li><a href=\"#plans\">套餐</a></li><li><a href=\"#setup\">配置流程</a></li><li><a href=\"#download\">下载</a></li><li><a href=\"#faq\">常见问题</a></li></ul></nav></header><main><section class=\"hero\"><h1>Wespanl</h1><p class=\"lead\">Wespanl 官方网站提供高速稳定的 VPN 梯子、机场订阅与多端加速器客户端。无论是流媒体解锁、游戏加速还是跨境办公，均可按清晰配置流程完成导入与连接。</p><a class=\"btn\" href=\"#download\">客户端官方下载</a><a class=\"btn btn-outline\" href=\"#setup\">查看配置流程</a></section><section id=\"intro\"><h2>品牌简介</h2><p>Wespanl 是面向个人与小团队的网络加速品牌，核心产品是机场订阅与配套 VPN 客户端方案。我们把线路质量、流量透明和上手难度放在一起考虑，让用户在官网就能完成选套餐、取订阅、下客户端和连节点的全过程。</p><p>Wespanl 机场采用自建与精选混合节点，日常浏览走优化线路，旗舰与团队套餐开放原生流媒体与 IPLC 专线。本页作为 Wespanl 官网介绍页，集中说明套餐差异、使用场景以及从开通到导入的配置流程，避免用户在分散渠道里反复查找教程。</p></section><section id=\"plans\"><h2>套餐方案</h2><p>按流量、同时在线设备与线路等级选择即可。年付可降低月均费用。开通后立刻在用户中心生成订阅链接，用于各端加速器导入。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan featured\"><p class=\"badge\">推荐</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div></section><section id=\"scenes\"><h2>使用场景</h2><h3>跨境办公与远程协作</h3><p>访问海外文档、代码仓库与会议工具时，用订阅节点降低超时和阻断，适合经常切换地区网络的远程工作者。</p><h3>流媒体与内容解锁</h3><p>旗舰版起提供原生 IP 线路，观看常见影视与音乐平台更顺畅，减少区域限制带来的反复缓冲。</p><h3>游戏加速</h3><p>对延迟敏感的对战与更新，可走 IPLC 专线节点，减少绕路与抖动，旗舰版针对游戏场景做了线路优化。</p><h3>学习研究与资料访问</h3><p>查阅国际公开课程、论文与开发文档时保持稳定连接，基础版即可覆盖轻量检索，重度下载可升级流量档。</p></section><section id=\"setup\"><h2>配置流程</h2><p>Wespanl 强调可独立完成的配置流程：购买、复制订阅、下载客户端、导入更新、选节点连接。按下列顺序操作即可，无需额外插件。</p><div class=\"steps\"><ol><li><h3>选择并开通套餐</h3><p>根据每月流量与同时在线设备数选择基础版、旗舰版或团队版。支付完成后账号立即生效。若长期使用，优先年付以降低单价。</p></li><li><h3>复制机场订阅链接</h3><p>进入用户中心的订阅管理，复制通用订阅地址。该链接用于客户端自动拉取节点，请勿公开分享。丢失时可在官网重新生成。</p></li><li><h3>下载对应平台客户端</h3><p>打开本页「客户端官方下载」一节，按 Windows、macOS、Android 或 iOS 选择推荐加速器。只通过 Wespanl 官网指引的渠道获取安装包。</p></li><li><h3>导入订阅并更新节点</h3><p>在客户端中选择从 URL / 订阅导入，粘贴链接后点击更新。稍后将出现香港、日本、新加坡、美国等节点，规则可按需开启分流。</p></li><li><h3>选择节点并连接</h3><p>浏览选普通优化线路，流媒体选原生解锁节点，游戏选 IPLC 或低延迟专线。连接成功即完成整套配置流程，之后只需定期更新订阅。</p></li></ol></div><p>导入失败时，先检查订阅是否完整、客户端是否为最新版本，再尝试更换节点。旗舰与团队用户可走优先工单。</p></section><section id=\"nodes\"><h2>节点与线路说明</h2><p>Wespanl 节点覆盖亚洲与北美常用地区。普通池满足网页与轻量视频；旗舰版与团队版开放原生流媒体、高带宽 VIP 以及 IPLC 内网专线，晚高峰仍保留可用带宽。</p><p>路由持续做收敛，减少不必要绕路。客户端内可套用分流规则，让国内应用直连、跨境流量走机场，兼顾速度与稳定性。</p></section><section id=\"download\"><h2>客户端官方下载</h2><p>请通过 Wespanl 官网推荐方式获取加速器。下列为常用平台说明，安装完成后使用本站订阅链接导入，即可同步最新节点。</p><ul class=\"dl-list\"><li>Windows / macOS：Clash Meta、FlClash 等图形客户端</li><li>Android：Clash Meta for Android、Hiddify</li><li>iOS：Shadowrocket、Stash（需按系统商店地区准备）</li><li>其他：支持标准订阅的 sing-box、V2RayN 等</li></ul><p>具体安装包请在对应系统官方发布页或应用商店获取。<a href=\"#setup\">返回配置流程</a>查看导入步骤。建议收藏本官网，以便获取节点与客户端更新说明。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>Wespanl 机场如何购买并获取订阅？</summary><p>在官网选择基础版、旗舰版或团队版并完成支付后，用户中心会生成专属订阅链接。复制该链接即可在各端客户端导入。年付套餐即时到账，流量与设备额度按套餐说明生效。</p></details><details><summary>支持哪些设备和客户端下载？</summary><p>支持 Windows、macOS、Android、iOS 及 Linux。常用图形客户端包括 Clash Meta、Shadowrocket、Stash、Hiddify 等。请通过本页官方下载说明获取，再用订阅链接更新节点，避免来路不明的修改版。</p></details><details><summary>三个套餐有什么区别，怎样选择？</summary><p>基础版适合轻度浏览与 3 台设备；旗舰版提升至 300GB、5 台设备，并开放全节点原生流媒体与 IPLC 游戏优化；团队版面向多设备与高流量，含 VIP 节点与定制路由。个人重度使用优先旗舰版。</p></details><details><summary>能否解锁 Netflix 等流媒体？节点覆盖哪里？</summary><p>旗舰版与团队版提供原生 IP 解锁常见流媒体。节点覆盖香港、日本、新加坡、美国、台湾等热门地区。观看前请更新订阅并选择标注解锁的线路，普通线路以浏览与下载为主。</p></details><details><summary>流量用尽或多设备不够用怎么办？</summary><p>可在官网升级套餐或按需叠加流量。基础版 3 台、旗舰版 5 台、团队版 20 台同时在线。家庭或小团队建议直接选择团队版，以免反复切换账号。</p></details><details><summary>连接后速度慢或打不开网站如何处理？</summary><p>先更新订阅并更换节点，关闭可能冲突的系统代理，确认客户端规则未误伤国内站点。游戏与实时通话优先 IPLC。仍异常时，旗舰与团队用户可提交优先工单由值班处理。</p></details></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><p>网站地图</p><ul><li><a href=\"#\">首页</a></li><li><a href=\"#plans\">套餐方案</a></li><li><a href=\"#setup\">配置流程</a></li><li><a href=\"#download\">客户端下载</a></li><li><a href=\"#faq\">常见问题</a></li></ul><p>友情链接</p><ul><li><a href=\"#\">网络加速百科</a></li><li><a href=\"#\">客户端使用指南</a></li><li><a href=\"#\">流媒体解锁说明</a></li></ul><div class=\"ad\">广告位：欢迎工具类与内容站点互换友链或商务合作，详情通过 Wespanl 官方渠道咨询。</div><p>© 2025 Wespanl 官方网站 · 保留所有权利</p><p>本站为 Wespanl 网络加速、机场订阅与客户端下载介绍页，认准官网信息完成配置与更新。</p></footer>",
+          "hash": "19cdd43782e3b41d48750cfd97bab455e4024604d5ab94e6f06232b755209822",
+          "seo": {
+            "title": "Wespanl 官网 - VPN 梯子网络加速器与机场订阅客户端官方下载",
+            "keywords": "Wespanl,Wespanl机场,Wespanl VPN,机场订阅,VPN客户端下载,网络加速,梯子,加速器,官方下载,流媒体解锁,IPLC,配置教程",
+            "description": "Wespanl 是专注 VPN 梯子与机场订阅的网络加速服务，提供多端客户端官方下载、稳定节点与清晰配置流程，覆盖办公、流媒体与游戏加速需求，欢迎访问官网选购套餐。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ei207g.cn",
+    "host": "p-8eb3ff78a0.ei207g.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "ei207g.cn",
+      "url": "https://ei207g.cn/",
+      "label": "雷速",
+      "apex": "ei207g.cn",
+      "kind": null,
+      "identity": "tkrqemkkn/page-d7475f71ae627d237e56b79c"
+    },
+    {
+      "host": "x39sfe.cn",
+      "url": "https://x39sfe.cn/",
+      "label": "Wespanl",
+      "apex": "x39sfe.cn",
+      "kind": null,
+      "identity": "ubwphwap/page-3dce30aa7e72de2ee9cda843"
+    },
+    {
+      "host": "x7bp5a.cn",
+      "url": "https://x7bp5a.cn/",
+      "label": "Wespanl",
+      "apex": "x7bp5a.cn",
+      "kind": null,
+      "identity": "qnajnq/page-fec5971c0191240a827e13c0"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "135a3df5d640c1aaf37d907d58193da1411a4d61aee9aa43516e3970466d117c",
+    "sitemap.xml": "0bc987f8da34762c7e08381affad65a892b4dcf1bddd331cc4cdb2b8e4d84d9f",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "f413c5b9ed509a838492f055798097286c04705995cfaf06c7fe43fa9c7fe05d",
+    "robots.txt": "4a9c58ab2663965ec05ca0a7d228b18bdd1f64909fb1ec00610bce54c64432b6",
+    "4b84dccb70a62798192a614a21260169.txt": "9f302cd2824aeb1e892afc527429eefc9dbcdbd37c10b73c17ab5b5ac6d62bcc"
+  },
+  "revision": "3afbd218104b19920a074347ae3b46808d2a9fcce7eaa944b155370fe328c686"
+}
